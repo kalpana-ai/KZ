@@ -2,7 +2,7 @@
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 
 ## Overview
-The KZ project is a React-based application designed to provide a unique user experience. *With its robust features and intuitive interface*, this project aims to simplify complex tasks and make them more accessible.
+..........
 
 ## Key Features
 * 📱 **Mobile Optimization**: Built with a mobile-first approach to ensure seamless performance on various devices.
@@ -22,17 +22,6 @@ To get started with the KZ project, follow these steps:
 2. Install dependencies: `npm install`
 3. Start the application: `npm start`
 
-## Usage
-Interact with the project by navigating through the various components and features. *Explore the app's functionality* and discover its capabilities.
-
-## Configuration
-No specific configuration details are provided. However, you can customize the application by modifying the `config.json` file in the `.bolt` directory.
-
-## Contributing
-Contributing guidelines are not specified. However, you can submit issues or pull requests on the GitHub repository.
-
-## License
-License information is not provided.
 
 ## Project Structure
 The project is organized into the following main directories:
