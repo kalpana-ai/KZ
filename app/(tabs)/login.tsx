@@ -36,7 +36,7 @@ export default function LoginScreen() {
   };
 
   const handleSubmit = () => {
-    // Handle login/signup logic here
+    // Handle login/signup logic 
     console.log('Form submitted:', formData);
   };
 
